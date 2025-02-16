@@ -42,12 +42,12 @@ pip install -r requirements.txt
 ### Set Up API Key
 You need a **Google Gemini AI API key** to use AI-powered features.
 1. Get your API key from **Google Generative AI**.
-2. Open `main.py` and replace `Your_api_key` with your actual API key.
+2. Open `app.py` and replace `Your_api_key` with your actual API key.
 
 ### Run the Application
 Start CodeSage with Streamlit:
 ```python
-streamlit run main.py
+streamlit run app.py
 ```
 Now, open the link displayed in the terminal (usually `http://localhost:8501`) and start using CodeSage.
 
@@ -62,7 +62,7 @@ codesage/
 │   ├── ai_code_detector.py     # Detects AI-generated code
 │
 ├── requirements.txt            # Required Python libraries
-├── main.py                     # Streamlit app entry point
+├── app.py                     # Streamlit app entry point
 ├── README.md                   # Project documentation
 ```
 
@@ -76,6 +76,7 @@ This project requires **Python 3.9+** and the following dependencies:
 - `matplotlib`
 - `google-generativeai`
 - `PyPDF2`
+- - `Pandas`
 - `python-docx`
 
 Install dependencies:
