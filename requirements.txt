@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+graphviz
+pylint
+matplotlib
+google-generativeai
+PyPDF2
+python-docx
+pandas
