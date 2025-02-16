@@ -107,7 +107,10 @@ The sidebar provides quick access to CodeSage functionalities:
 - **Hackathon Evaluation** – Rank solutions effectively.
 
 ## Screenshots
-(Add relevant screenshots here, if available.)
+![Image](https://github.com/user-attachments/assets/ee7ee994-90b3-474d-8877-3e9fbebb6859)
+![Image](https://github.com/user-attachments/assets/2b3628e8-0aa6-431b-bd77-2df25c6e690c)
+![Image](https://github.com/user-attachments/assets/32a099ad-fa4e-4f21-bcb8-64cd9670b676)
+
 
 ## License
 This project is licensed under the **MIT License**.
